@@ -21,7 +21,7 @@ def test_multiply():
 
 
 def test_divide():
-    assert divide(6, 3) == 4
+    assert divide(6, 3) ==6
     assert divide(7, 2) == 3.5
 
 
